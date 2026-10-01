@@ -1,7 +1,7 @@
 ---
 layout: default
 title: VAKI PAGE
-description: INSPIRATION cz(LPN) (page at work) en(WLN)
+description: v provozu
 ---
 
 {% include nav.html %}
