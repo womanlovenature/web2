@@ -5,7 +5,7 @@
 
 // Hlavička webu
 .page-header {
-  background-image: url("/assets/images/pozadi.jpg");
+  background-image: url("/assets/images/0poz.jpg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -66,7 +66,7 @@
 }
 
 .dropdown-content a {
-  color: #A9DB1A !important;
+  color: #13ecf3 !important;
   padding: 10px 16px;
   text-decoration: none;
   display: block;
@@ -94,7 +94,7 @@
 
 // Samotná hamburger ikona
 .hamburger-icon {
-  background-color: #a8c686;
+  background-color: #13ecf3;
   color: white;
   font-size: 1.5em;
   padding: 10px 16px;
@@ -109,7 +109,7 @@
   right: -220px;         // schované mimo obrazovku
   width: 220px;
   height: 100vh;
-  background-color: #a8c686;
+  background-color: #13ecf3;
   padding-top: 70px;
   display: flex;
   flex-direction: column;
