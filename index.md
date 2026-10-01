@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VAKI PAGE
+title: VAKI PAGEs
 description: v provozu
 ---
 
