@@ -8,7 +8,7 @@ description: v provozu
 {% include sidemenu.html %}
 
 <div style="text-align: center;">
-  <img src="{{ site.baseurl }}/assets/images/p1.jpg" style="max-width: 100%; width: 500px;">
+  <img src="{{ site.baseurl }}/assets/images/0poz.jpg" style="max-width: 100%; width: 500px;">
 </div>
 
 40ty tyden - INSPI for FUN
